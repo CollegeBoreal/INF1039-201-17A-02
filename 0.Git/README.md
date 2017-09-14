@@ -27,6 +27,10 @@ $ cd INF1039-201-17A-02
 ```
 $ vi 300098957.md
 ```
+
+Note: taper `:q` pour quitter
+
+
 * mettre le fichier en scene (add to stage)
 ```
 $ git add 300098957.md
