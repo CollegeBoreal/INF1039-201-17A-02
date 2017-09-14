@@ -23,13 +23,13 @@ $ cd INF1039-201-17A-02
 ```
 
 ## Creer son premier fichier sous git (utiliser vi)
-* Creer un fichier et l'editer 
+* Creer un fichier et l'editer (donner votre numero d'etudiant)
 ```
-$ vi monfichier.md
+$ vi 300098957.md
 ```
 * mettre le fichier en scene (add to stage)
 ```
-$ git add monfichier.md
+$ git add 300098957.md
 ```
 > Vérifier son status avec (doit etre vert)  
     ```
