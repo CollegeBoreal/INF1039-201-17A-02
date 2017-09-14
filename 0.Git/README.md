@@ -18,7 +18,7 @@ $ cd Developer
 ```
 * Cloner votre premier repertoire git
 ```
-$ git clone git@github.com:CollegeBoreal/INF1039-201-17A-02.git
+$ git clone https://github.com/CollegeBoreal/INF1039-201-17A-02.git
 $ cd INF1039-201-17A-02
 ```
 
