@@ -13,3 +13,7 @@ Python 2.7.10 (default, Jul 30 2016, 18:31:42)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
+## Devoir
+
+Ecrire le programme Python de la recherche binaire
