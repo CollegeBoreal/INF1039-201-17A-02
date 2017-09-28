@@ -3,7 +3,7 @@ Introduction aux algorithmes
 
 ## Elements de Performance
 
-|  | Date   | Cours                                                  | Intitulé                                    |  Commentaires       |
+|No| Date   | Cours                                                  | Intitulé                                    |  Commentaires       |
 |--|--------|:------------------------------------------------------:|:--------------------------------------------|:--------------------| 
 | 1|20170903|[0.Git](./0.Git)                                        | Git                                         |                     |
 
