@@ -6,7 +6,9 @@ Introduction aux algorithmes
 | #| Date | Cours                                                   | Intitulé                                    |  Commentaires        |
 |  |------|:-------------------------------------------------------:|:--------------------------------------------|:---------------------| 
 | 1|[0.Git](./0.Git)                                         | Git                                         |                            |
-| 2	|15-sept-17		Selection sort
+
+```
+2	15-sept-17		Selection sort
 3	22-sept-17		Recursion
 4	29-sept-17		
 5	06-oct-17		Quicksort
@@ -20,3 +22,4 @@ Introduction aux algorithmes
 13	01-déc-17		Dynamic programming
 14	08-déc-17		K-nearest neighbors
 15	15-déc-17		Fin De Session
+```
