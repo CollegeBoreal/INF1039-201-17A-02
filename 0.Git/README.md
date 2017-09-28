@@ -1,5 +1,9 @@
 # GIT 
 
+## Tutoriel
+
+https://www.lynda.com/fr/Git-tutorials/Decouverte-Git/546576-2.html?org=collegeboreal.ca
+
 ## Installation de la gestion de source
 
 * git Client : https://git-scm.com/downloads  
