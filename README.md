@@ -3,12 +3,12 @@ Introduction aux algorithmes
 
 ## Elements de Performance
 
-|No| Date     | Cours                                                | Intitulé                                    |  Commentaires       |
-|--|----------|:----------------------------------------------------:|:--------------------------------------------|:--------------------| 
-| 1|07-sept-17|[0.Git](./0.Git)                                      | Introduction to algorithms                  |                     |
-| 2|14-sept-17|                                                      | Selection sort                              |                     |
-| 3|21-sept-17|                                                      | Recursion                                   |                     |
-| 4|28-sept-17|[1.Tri](./1.Tri)                                      | Quicksort                                   |                     |
+|No| Date     | Cours                      | Intitulé                                    |  Structure de donnees       |
+|--|----------|:--------------------------:|:--------------------------------------------|:----------------------------| 
+| 1|07-sept-17|[0.Git](./0.Git)            | Introduction to algorithms                  |                             |
+| 2|14-sept-17|                            | Selection sort                              | Tableau, Liste              |
+| 3|21-sept-17|                            | Recursion                                   |                             |
+| 4|28-sept-17|[1.Tri](./1.Tri)            | Quicksort                                   | Pile                        |
 
 ```
 5	05-oct-17		
