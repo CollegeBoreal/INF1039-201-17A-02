@@ -53,3 +53,8 @@ $ git push origin master
 ```
 $ git pull 
 ```
+
+## Tutoriel
+
+https://www.lynda.com/fr/Git-tutorials/Decouverte-Git/546576-2.html?org=collegeboreal.ca
+
