@@ -10,11 +10,11 @@ Introduction aux algorithmes
 | 3|21-09-17|                 | Selection sort                          |                             | Condition              |
 |  |        |                 | Notation Big O                          |                             | Recursion              |
 | 4|28-09-17|[1.Tri](./1.Tri) | Quicksort                               | Pile                        | Iteration              |
+| 5|05-10-17|                 |                                         | HashTable                   | Collision              |
+| 6|12-10-17|                 |                                         | Graphe                      |                        |
 
 ```
-5	05-oct-17		
-6	12-oct-17		Hash tables
-7	19-oct-17		
+7	19-oct-17		Tree Search
 8	26-oct-17		Breadth-first search
 9	02-nov-17		Journée d’études collégiales (aucun cours)
 10	09-nov-17		Dijkstra's algorithm
