@@ -3,12 +3,13 @@ Introduction aux algorithmes
 
 ## Elements de Performance
 
-|No| Date     | Cours           | Intitulé                                |  Structure de donnees       | Structure de controle      |
-|--|----------|:---------------:|:----------------------------------------|:----------------------------|----------------------------| 
-| 1|07-sept-17|[0.Git](./0.Git) | Introduction to algorithms              |                             |                            |
-| 2|14-sept-17|                 | Selection sort                          | Tableau, Liste              |                            |
-| 3|21-sept-17|                 | Recursion                               |                             | Fonction, Si/Sinon         |
-| 4|28-sept-17|[1.Tri](./1.Tri) | Quicksort                               | Pile                        | Boucle                     |
+|No| Date     | Cours           | Intitulé                                |  Structure de donnees       | Structure de controle          |
+|--|----------|:---------------:|:----------------------------------------|:----------------------------|--------------------------------| 
+| 1|07-sept-17|[0.Git](./0.Git) | Introduction to algorithms              |                             |                                |
+| 2|14-sept-17|                 | Binary search                           | Tableau, Liste              |                                |
+| 3|21-sept-17|                 | Selection sort                          |                             | Fonction, Condition(Si/Sinon)  |
+|  |          |                 |                                         |                             | Recursion                      |
+| 4|28-sept-17|[1.Tri](./1.Tri) | Quicksort                               | Pile                        | Iteration (boucles) .          |
 
 ```
 5	05-oct-17		
