@@ -10,7 +10,7 @@ Introduction aux algorithmes
 | 3|21-09-17|                 | Selection sort                          |                             | Condition              |
 |  |        |                 | Notation Big O                          |                             | Recursion              |
 | 4|28-09-17|[1.Tri](./1.Tri) | Quicksort                               | Pile                        | Iteration              |
-| 5|05-10-17|                 |                                         | HashTable                   | Collision              |
+| 5|05-10-17|[2.Hash](2.Hash) |                                         | HashTable                   | Collision              |
 | 6|12-10-17|                 |                                         | Graphe                      |                        |
 
 ```
