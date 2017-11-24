@@ -24,3 +24,9 @@ Introduction aux algorithmes
 14	07-déc-17		K-nearest neighbors
 15	14-déc-17		Fin De Session
 ```
+
+# References:
+
+[Manning Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+[DSA](http://www.tutorialspoint.com/data_structures_algorithms)
+
