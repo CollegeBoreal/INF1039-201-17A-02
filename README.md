@@ -28,7 +28,7 @@ Introduction aux algorithmes
 # References:
 
 |Site| Lien   |
-|----|--------|
-|[Manning Grokking Algorithms]|(https://www.manning.com/books/grokking-algorithms)|
-|[DSA]|(http://www.tutorialspoint.com/data_structures_algorithms)|
+|--------------------------------|--------|
+|Manning Grokking Algorithms .   |[Manning Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|
+|Tutorials Point                 |[DSA](http://www.tutorialspoint.com/data_structures_algorithms)|
 
