@@ -48,5 +48,5 @@ while node is not None:
     processed.append(node)
     node = find_lowest_cost_node(costs)
 
-print "Cost from the start to each node:"
-print costs
+print ("Cost from the start to each node:")
+print (costs)
