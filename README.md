@@ -31,5 +31,6 @@ Introduction aux algorithmes
 |--------------------------------|--------|
 |Manning Grokking Algorithms .   |[Manning Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|
 |Tutorials Point                 |[DSA](http://www.tutorialspoint.com/data_structures_algorithms)|
+| IDE | [GeeksForGeeks](https://ide.geeksforgeeks.org) |
 | Python Water Pouring | [CodeReview](https://codereview.stackexchange.com/questions/78586/pouring-water-between-two-jugs-to-get-a-certain-amount-in-one-of-the-jugs) |
 
