@@ -1,19 +1,7 @@
 graph = {}
-
-graph["you"] = ["alice", "bob", "claire"]
-
 graph["start"] = {}
 graph["start"]["a"] = 6
 graph["start"]["b"] = 2
-
-
-print graph["start"].keys()
-["a", "b"]
-
-print graph["start"]["a"]
-2
-print graph["start"]["b"]
-6
 
 graph["a"] = {}
 graph["a"]["fin"] = 1
