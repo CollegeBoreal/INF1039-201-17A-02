@@ -18,9 +18,9 @@ Introduction aux algorithmes
 8	26-oct-17		Breadth-first search
 9	02-nov-17		Journée d’études collégiales (aucun cours)
 10	09-nov-17		Dijkstra's algorithm
-11	16-nov-17		Greedy algorithms
+11	16-nov-17		Greedy algorithms (Quick and Dirty: in traffic find the short )
 12	23-nov-17		
-13	30-nov-17		Dynamic programming
+13	30-nov-17		Dynamic programming (Overall approach solution: may be longer)
 14	07-déc-17		K-nearest neighbors
 15	14-déc-17		Fin De Session
 ```
@@ -31,4 +31,6 @@ Introduction aux algorithmes
 |--------------------------------|--------|
 |Manning Grokking Algorithms .   |[Manning Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|
 |Tutorials Point                 |[DSA](http://www.tutorialspoint.com/data_structures_algorithms)|
+| IDE | [GeeksForGeeks](https://ide.geeksforgeeks.org) |
+| Python Water Pouring | [CodeReview](https://codereview.stackexchange.com/questions/78586/pouring-water-between-two-jugs-to-get-a-certain-amount-in-one-of-the-jugs) |
 
